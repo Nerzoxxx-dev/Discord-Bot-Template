@@ -18,7 +18,7 @@ The base prefix set is *. Where are different commands (ping, stop and say). In 
 
 "ID_MEMBERS_HAS_PERMISSION_STOP_BOT": ["64621651244515212", "564121545212"] 
 
-(this is a random numbers, not real numbers ).
+(this is a random numbers, not real numbers).
 
 # Start
 
@@ -28,4 +28,4 @@ node index.js
 
 # Questions
 
-If you have any questions, contact me on Discord (my Discord tag: Nerzox#1604 ).
+If you have any questions, contact me on Discord (my Discord tag: Nerzox#1604).
