@@ -1,0 +1,9 @@
+{
+  "token": "SECRET TOKEN",
+  "prefix": "*",
+  
+  "status": "{server_count} members !",
+  "type": "WATCHING",
+  
+  "ID_MEMBERS_HAS_PERMISSION_STOP_BOT": ["id1", "id2", "id3", "..."]
+}
